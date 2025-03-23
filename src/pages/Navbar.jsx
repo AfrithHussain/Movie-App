@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <nav className="bg-gray-900 text-white py-4 shadow-lg">
       <div className="container mx-auto flex justify-between items-center px-6 lg:px-16">
-        <h1 className="text-3xl font-bold">Moviezz App</h1>
+        <h1 className="text-3xl font-bold">Moviezz Web</h1>
         
         <div className="hidden md:flex gap-10 text-lg">
           <a href="#" className="hover:text-gray-300 transition">Home</a>
